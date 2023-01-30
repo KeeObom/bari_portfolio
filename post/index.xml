@@ -2,61 +2,61 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Melu-Akekue Barinatamkee</title>
-    <link>https://gohugo-theme-ananke.pages.dev/post/</link>
+    <link>https://keeobom.github.io/bari_portfolio/post/</link>
     <description>Recent content in Projects on Melu-Akekue Barinatamkee</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 02 Mar 2017 12:00:00 -0500</lastBuildDate>
     
-	<atom:link href="https://gohugo-theme-ananke.pages.dev/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://keeobom.github.io/bari_portfolio/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Project V: Restaurant Sales Forecast</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/project-5/</link>
-      <pubDate>Thu, 13 Apr 2017 11:15:58 -0400</pubDate>
+      <link>https://keeobom.github.io/bari_portfolio/post/project-5/</link>
+      <pubDate>Sun, 15 Jan 2023 11:15:58 -0400</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/post/project-5/</guid>
+      <guid>https://keeobom.github.io/bari_portfolio/post/project-5/</guid>
       <description>The program uses RandomForestRegressor, a machine learning regressor for training the data and forecasting the future sales The tool returns the expected sales for the date range selected and the weather conditions of the period.    Link to github repo</description>
     </item>
     
     <item>
-      <title>Project IV: Oklohoma Weather Analysis</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/project-4/</link>
-      <pubDate>Wed, 12 Apr 2017 11:14:48 -0400</pubDate>
-      
-      <guid>https://gohugo-theme-ananke.pages.dev/post/project-4/</guid>
-      <description>This is a detailed analysis of the weather conditions in different sites in Oklohoma. Regression models which show the continous characteristic of the different weather conditions    Link to github repo</description>
-    </item>
-    
-    <item>
       <title>Project III: Customer Insurance Settlement</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/project-3/</link>
-      <pubDate>Tue, 11 Apr 2017 11:13:32 -0400</pubDate>
+      <link>https://keeobom.github.io/bari_portfolio/post/project-3/</link>
+      <pubDate>Wed, 11 Jan 2023 11:13:32 -0400</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/post/project-3/</guid>
+      <guid>https://keeobom.github.io/bari_portfolio/post/project-3/</guid>
       <description>This model predicts if a customer&amp;rsquo;s insurance will be settled or not. The following classification models are used: ** Logistic Regression ** Support Vector Machines ** Decision Tree ** KNN    Link to github repo</description>
     </item>
     
     <item>
-      <title>Project II: NBA Players Stats Explorer</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/project-2/</link>
-      <pubDate>Mon, 10 Apr 2017 11:00:59 -0400</pubDate>
-      
-      <guid>https://gohugo-theme-ananke.pages.dev/post/project-2/</guid>
-      <description>This web app performs webscraping of NBA player stats data
- The data source is Basketball-reference.com Filtered CSV file can be downloaded The correlation between the different stat categories is displayed    Link to the webapp Link to github repo</description>
-    </item>
-    
-    <item>
       <title>Project I: Winning Space Race with Data Science</title>
-      <link>https://gohugo-theme-ananke.pages.dev/post/project-1/</link>
-      <pubDate>Sun, 09 Apr 2017 10:58:08 -0400</pubDate>
+      <link>https://keeobom.github.io/bari_portfolio/post/project-1/</link>
+      <pubDate>Wed, 04 Jan 2023 10:58:08 -0400</pubDate>
       
-      <guid>https://gohugo-theme-ananke.pages.dev/post/project-1/</guid>
+      <guid>https://keeobom.github.io/bari_portfolio/post/project-1/</guid>
       <description>SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; others providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage.
   The project task is to predict if the first stage of the SpaceX Falcon 9 rocket will land successfully.
   The following datasets was collected: ** SpaceX launch data that is gathered from the SpaceX REST API.</description>
+    </item>
+    
+    <item>
+      <title>Project IV: Oklohoma Weather Analysis</title>
+      <link>https://keeobom.github.io/bari_portfolio/post/project-4/</link>
+      <pubDate>Mon, 12 Sep 2022 11:14:48 -0400</pubDate>
+      
+      <guid>https://keeobom.github.io/bari_portfolio/post/project-4/</guid>
+      <description>This is a detailed analysis of the weather conditions in different sites in Oklohoma. Regression models which show the continous characteristic of the different weather conditions    Link to github repo</description>
+    </item>
+    
+    <item>
+      <title>Project II: NBA Players Stats Explorer</title>
+      <link>https://keeobom.github.io/bari_portfolio/post/project-2/</link>
+      <pubDate>Wed, 10 Aug 2022 11:00:59 -0400</pubDate>
+      
+      <guid>https://keeobom.github.io/bari_portfolio/post/project-2/</guid>
+      <description>This web app performs webscraping of NBA player stats data
+ The data source is Basketball-reference.com Filtered CSV file can be downloaded The correlation between the different stat categories is displayed    Link to the webapp Link to github repo</description>
     </item>
     
   </channel>
